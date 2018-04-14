@@ -1,14 +1,16 @@
 {
   "name": "what-props-changed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React utility used to detect changed props when a component updates.",
   "main": "index.js",
   "repository": "https://www.github.com/reactual/what-props-changed",
   "author": "Reactual <github@reactual.io>",
-  "contributors": [{
-    "name": "Stephen Richardson",
-    "url": "https://www.github.com/sbrichardson"
-  }],
+  "contributors": [
+    {
+      "name": "Stephen Richardson",
+      "url": "https://www.github.com/sbrichardson"
+    }
+  ],
   "license": "MIT",
   "private": false,
   "dependencies": {
