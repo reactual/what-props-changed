@@ -1,7 +1,7 @@
 ## what-props-changed
 A simple React development tool to help find the props that caused a Component to update.
 
-By default, it will log to the browser console and detected changes, with their original and new values.
+By default, it will log to the browser console any detected changes, with their original and new values.
 
 ```js
 // Example Output:
