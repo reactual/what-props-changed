@@ -1,6 +1,6 @@
 {
   "name": "what-props-changed",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React utility used to detect changed props when a component updates.",
   "main": "index.js",
   "repository": "https://www.github.com/reactual/what-props-changed",
